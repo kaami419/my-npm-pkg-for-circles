@@ -1,6 +1,6 @@
 {
   "name": "circle-geometry-utils-hkrk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "this is hamza kamran's first npm package to calculate circle geometry utils",
   "main": "index.js",
   "keywords": [
